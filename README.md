@@ -4,12 +4,9 @@
 
 ---
 
-I'm a passionate **Computer Science** student at Oregon State University, currently focusing on **Artificial Intelligence**. Alongside my academic journey, I'm also a **Full Stack Developer** and **Researcher**, dedicated to building impactful projects and exploring innovative technologies.
-
----
-
 ## 🚀 About Me
-I'm a Junior at Oregon State University majoring in Computer Science with a focus on Artificial Intelligence, a Full Stack Developer, and AI Researcher with experience in machine learning, currently deepening my knowledge in deep learning and NLP, and always open to collaboration on innovative projects.
+
+I'm a passionate **Computer Science** student at Oregon State University, currently focusing on **Artificial Intelligence**. Alongside my academic journey, I'm also a **Full Stack Developer** and **Researcher**, dedicated to building impactful projects and exploring innovative technologies. I'm currently working as a research assistant focusing on prompt engineering and have completed an internship at Kennedy Restoration.
 
 ---
 
