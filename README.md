@@ -9,11 +9,7 @@ I'm a passionate **Computer Science** student at Oregon State University, curren
 ---
 
 ## 🚀 About Me
-- 🎓 **Junior at Oregon State University**, majoring in **Computer Science** with a specialization in **Artificial Intelligence**.
-- 💻 **Full Stack Developer** with experience in creating web and mobile applications.
-- 🔬 **AI Researcher** exploring cutting-edge solutions in machine learning and data science.
-- 🌱 Currently expanding my knowledge in **Deep Learning** and **Natural Language Processing**.
-- 🔗 Always eager to collaborate on interesting projects!
+I'm a Junior at Oregon State University majoring in Computer Science with a focus on Artificial Intelligence, a Full Stack Developer, and AI Researcher with experience in machine learning, currently deepening my knowledge in deep learning and NLP, and always open to collaboration on innovative projects.
 
 ---
 
