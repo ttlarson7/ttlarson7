@@ -22,5 +22,5 @@ I'm a passionate **Computer Science** student at Oregon State University, curren
 
 
 ## 📫 Get in Touch
-- 📧 **Email**: [taz.larson@oregonstate.edu](mailto:taz.larson@oregonstate.edu)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tazlarson)
+- 📧 **Email**: [taz.larson@oregonstate.edu](mailto:tazlarson1@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/taz-larson-a32955265/)
